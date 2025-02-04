@@ -42,9 +42,9 @@ dependencies:
 #  - name: payment-service   #5: 8013
 #    version: 1.0.0
 #    repository: file://charts/payment-service
-  - name: cart-service      #6: 8014
-    version: 1.0.0
-    repository: file://charts/cart-service
+#  - name: cart-service      #6: 8014
+#    version: 1.0.0
+#    repository: file://charts/cart-service
   - name: review-service    #7: 8031
     version: 1.0.0
     repository: file://charts/review-service
