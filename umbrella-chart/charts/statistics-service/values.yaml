@@ -4,4 +4,4 @@ image: 124355678220.dkr.ecr.ap-northeast-2.amazonaws.com/statistics-service:1.0
 port: 8022
 
 env:
-SPRING_PROFILES_ACTIVE: default
+  SPRING_PROFILES_ACTIVE: default
