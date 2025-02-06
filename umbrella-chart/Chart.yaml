@@ -39,9 +39,9 @@ dependencies:
   - name: product-service   #4: 8012
     version: 1.0.0
     repository: file://charts/product-service
-#  - name: payment-service   #5: 8013
-#    version: 1.0.0
-#    repository: file://charts/payment-service
+  - name: payment-service   #5: 8013
+    version: 1.0.0
+    repository: file://charts/payment-service
 #  - name: cart-service      #6: 8014
 #    version: 1.0.0
 #    repository: file://charts/cart-service
